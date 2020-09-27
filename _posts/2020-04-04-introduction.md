@@ -3,22 +3,35 @@ layout: post
 title: DigitalDemoTape
 ---
 
-[![Tutorial Symphonique Trailer](https://img.youtube.com/vi/0dUR5t1-XYc/0.jpg)](https://www.youtube.com/watch?v=0dUR5t1-XYc "Tutorial Symphonique Trailer")
------
+<iframe title="Tutorial Symphonique Trailer" width='650' height='500' src="https://www.youtube.com/embed/0dUR5t1-XYc" frameborder="0" allowfullscreen></iframe>
 ---- Tutorial Symphonique Trailer
 
-[![¡Off With Their Heads!](https://img.youtube.com/vi/m4sLiDlNt6c/0.jpg)](https://www.youtube.com/watch?v=m4sLiDlNt6c "¡Off With Their Heads!")
------
+<iframe title="¡Off With Their Heads!" width='650' height='500' src="https://www.youtube.com/embed/m4sLiDlNt6c" frameborder="0" allowfullscreen></iframe>
 ---- ¡Off With Their Heads!
 
-[![I Never Went South Trailer](https://img.youtube.com/vi/NkfRcOjaImU/0.jpg)](https://www.youtube.com/watch?v=NkfRcOjaImU "I Never Went South Trailer")
------
+<iframe title="I Never Went South Trailer" width='650' height='500' src="https://www.youtube.com/embed/NkfRcOjaImU" frameborder="0" allowfullscreen></iframe>
 ---- I Never Went South Trailer
 
-[![Reclaim your Opera (Motivation Video)](https://img.youtube.com/vi/9wh7w8E9RiU/0.jpg)](https://www.youtube.com/watch?v=9wh7w8E9RiU "Reclaim your Opera (Motivation Video)")
------
+<iframe title="Reclaim your Opera (Motivation Video)" width='650' height='500' src="https://www.youtube.com/embed/9wh7w8E9RiU" frameborder="0" allowfullscreen></iframe>
 ---- Reclaim your Opera (Motivation Video)
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
 
