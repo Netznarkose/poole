@@ -1,11 +1,24 @@
 ---
 layout: post
-title: Introduction
+title: DigitalDemoTape
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
-
+[![Tutorial Symphonique Trailer](https://img.youtube.com/vi/0dUR5t1-XYc/0.jpg)](https://www.youtube.com/watch?v=0dUR5t1-XYc "Tutorial Symphonique Trailer")
 -----
+---- Tutorial Symphonique Trailer
+
+[![¡Off With Their Heads!](https://img.youtube.com/vi/m4sLiDlNt6c/0.jpg)](https://www.youtube.com/watch?v=m4sLiDlNt6c "¡Off With Their Heads!")
+-----
+---- ¡Off With Their Heads!
+
+[![I Never Went South Trailer](https://img.youtube.com/vi/NkfRcOjaImU/0.jpg)](https://www.youtube.com/watch?v=NkfRcOjaImU "I Never Went South Trailer")
+-----
+---- I Never Went South Trailer
+
+[![Reclaim your Opera (Motivation Video)](https://img.youtube.com/vi/9wh7w8E9RiU/0.jpg)](https://www.youtube.com/watch?v=9wh7w8E9RiU "Reclaim your Opera (Motivation Video)")
+-----
+---- Reclaim your Opera (Motivation Video)
+ 
 
 Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
 
